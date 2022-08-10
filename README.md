@@ -1,7 +1,7 @@
 Hi 👋 My name is Samson Pallivathukkal
 ======================================
 
-Senior Application Developer
+Senior Application Developer @ ADP
 ----------------------------
 
 * 🌍  I'm based in Miami
