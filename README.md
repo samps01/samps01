@@ -1,10 +1,11 @@
 Hi 👋 My name is Samson Pallivathukkal
 ======================================
 
-Senior Application Developer @ ADP
+Lead Software Engineer @ ADP
 ----------------------------
 
 * 🌍  I'm based in Miami
+* Excited and Eager about web application development.
 * 🧠  I'm learning Docker and containerization
 
 ### Skills
